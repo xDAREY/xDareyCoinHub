@@ -1,0 +1,7 @@
+{
+  "/dashboard/transactions/page": "app/dashboard/transactions/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/forex/page": "app/dashboard/forex/page.js",
+  "/dashboard/stock/page": "app/dashboard/stock/page.js"
+}
